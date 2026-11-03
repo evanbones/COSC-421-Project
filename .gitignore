@@ -1,0 +1,22 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# Data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Rendered report output
+report/*.html
+report/*.pdf
+report/*_files/
+report/*_cache/
+
+# OS
+.DS_Store
+Thumbs.db
