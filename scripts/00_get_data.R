@@ -3,7 +3,7 @@
 #   https://snap.stanford.edu/data/wikispeedia.html
 #
 # Contents of wikispeedia_paths-and-graph/:
-#   articles.tsv                       4,604 article names (URL-encoded)
+#   articles.tsv                       article names (URL-encoded)
 #   links.tsv                          directed hyperlinks: source \t target
 #   categories.tsv                     article \t category (e.g. subject.Science.Biology)
 #   paths_finished.tsv                 human games that reached the target
